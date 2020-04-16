@@ -1,0 +1,12 @@
+C:\Users\shukl\Desktop\EntityFramework Learning\ModelFirst\ModelFirstApproach\ClassData\bin\Debug\ClassData.exe.config
+C:\Users\shukl\Desktop\EntityFramework Learning\ModelFirst\ModelFirstApproach\ClassData\bin\Debug\ClassData.exe
+C:\Users\shukl\Desktop\EntityFramework Learning\ModelFirst\ModelFirstApproach\ClassData\bin\Debug\ClassData.pdb
+C:\Users\shukl\Desktop\EntityFramework Learning\ModelFirst\ModelFirstApproach\ClassData\bin\Debug\EntityFramework.dll
+C:\Users\shukl\Desktop\EntityFramework Learning\ModelFirst\ModelFirstApproach\ClassData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shukl\Desktop\EntityFramework Learning\ModelFirst\ModelFirstApproach\ClassData\bin\Debug\EntityFramework.xml
+C:\Users\shukl\Desktop\EntityFramework Learning\ModelFirst\ModelFirstApproach\ClassData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shukl\Desktop\EntityFramework Learning\ModelFirst\ModelFirstApproach\ClassData\obj\Debug\ClassData.csprojAssemblyReference.cache
+C:\Users\shukl\Desktop\EntityFramework Learning\ModelFirst\ModelFirstApproach\ClassData\obj\Debug\ClassData.csproj.CoreCompileInputs.cache
+C:\Users\shukl\Desktop\EntityFramework Learning\ModelFirst\ModelFirstApproach\ClassData\obj\Debug\ClassData.csproj.CopyComplete
+C:\Users\shukl\Desktop\EntityFramework Learning\ModelFirst\ModelFirstApproach\ClassData\obj\Debug\ClassData.exe
+C:\Users\shukl\Desktop\EntityFramework Learning\ModelFirst\ModelFirstApproach\ClassData\obj\Debug\ClassData.pdb
